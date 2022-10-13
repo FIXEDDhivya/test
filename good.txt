@@ -1,4 +1,4 @@
 hello 
 "first change" 
 "I am Sneha" 
-Lot of infomation
+I have changed and merged
